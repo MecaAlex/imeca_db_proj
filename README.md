@@ -14,9 +14,9 @@
     - model conceptual
     
     Stps:
-    1. git clone repo
+    1. git clone https://github.com/MecaAlex/imeca_db_proj.git
     2.git status , pentru status repo local
-    3. git add, pentru a inregistra foi de cod noi sau modificate
+    3. git add --all, pentru a inregistra foi de cod noi sau modificate
     4. git commit -m "mesaj commit", pentru a face commit cu fisierele inregistrate la pasul anterior cu git add
     5. git push sau git push -f. Pentru a face upload pe git hub a modificarilor locale
     
